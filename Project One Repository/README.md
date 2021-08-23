@@ -69,9 +69,9 @@ for portfolio in range(num_crypto_portfolios):
     crypto_ann_sd = crypto_sd*np.sqrt(250) 
 ```
 # *Citation:* <Br/>
-*The code for the solver was base on an article from machinelearningplus.com*
-*This link will lead to the webpage containing the article.*
-*https://www.machinelearningplus.com/machine-learning/portfolio-optimization-python-example/* <Br/>
+**The code for the solver was base on an article from machinelearningplus.com**
+**This link will lead to the webpage containing the article.**
+**https://www.machinelearningplus.com/machine-learning/portfolio-optimization-python-example/** <Br/>
 ---
 
 ## Data Visualizations and Analysis
