@@ -70,7 +70,7 @@ for portfolio in range(num_crypto_portfolios):
 ```
 # *Citation:* <Br/>
 **The code for the solver was base on an article from machinelearningplus.com**
-**This link will lead to the webpage containing the article.**
+This link will lead to the webpage containing the article.
 **https://www.machinelearningplus.com/machine-learning/portfolio-optimization-python-example/** <Br/>
 ---
 
